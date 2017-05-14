@@ -153,7 +153,7 @@ PRODUCT_PACKAGES += \
 # Shims
 PRODUCT_PACKAGES += \
     libcamera_shim \
-    libshims_camera \
+    qcamera-daemon_shim \
     libshims_ims
 
 # Connectivity Engine support (CNE)
